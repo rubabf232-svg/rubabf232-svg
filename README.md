@@ -15,8 +15,3 @@ Python • Cybersecurity • Problem Solving • Continuous Learning <br>current
 ---
 [![](https://komarev.com/ghpvc/?username=rubabf232-svg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://vercel.app" alt="Fatima's GitHub Stats" width="48%" />
-  <img src="https://demolab.com" alt="Fatima's GitHub Streak" width="48%" />
-</p>
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
